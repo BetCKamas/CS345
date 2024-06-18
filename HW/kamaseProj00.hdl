@@ -1,0 +1,6 @@
+CHIP kamaseProj00 {
+	IN a;
+	OUT HELLO-WORLD;
+	
+	PARTS:
+}
